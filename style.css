@@ -1,0 +1,45 @@
+body{
+    margin: auto;
+    width: 60%;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+header ul li{
+    list-style: none;
+}
+
+section form ul li{
+    list-style:none ;
+}
+
+section form ul li{
+    font-size: 22px;
+}
+
+section{
+    margin-top: 1%;
+    display: flex;
+    justify-content: center;
+    font-size: medium;
+}
+
+
+section button{
+    margin: 5px;
+    font-size: 20px;
+}
+
+
+table, th, td{
+    border: 3px solid black; 
+    border-collapse:separate;
+    border-radius: 5px;
+    font-size:large;
+}
